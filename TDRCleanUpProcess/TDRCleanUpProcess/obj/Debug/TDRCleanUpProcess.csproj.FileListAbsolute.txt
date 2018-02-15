@@ -1,0 +1,10 @@
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\bin\Debug\TDRCleanUpProcess.exe.config
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\bin\Debug\TDRCleanUpProcess.exe
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\bin\Debug\TDRCleanUpProcess.pdb
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.Properties.Resources.resources
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.csproj.GenerateResource.Cache
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.exe
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.pdb
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.MainForm.resources
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.CleanUpForm.resources
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2012 Projects\TDRCleanUpProcess\TDRCleanUpProcess\obj\Debug\TDRCleanUpProcess.csprojResolveAssemblyReference.cache
