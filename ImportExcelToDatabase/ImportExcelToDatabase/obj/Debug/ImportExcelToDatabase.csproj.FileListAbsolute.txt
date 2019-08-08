@@ -1,0 +1,8 @@
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\bin\Debug\ImportExcelToDatabase.exe.config
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\bin\Debug\ImportExcelToDatabase.exe
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\bin\Debug\ImportExcelToDatabase.pdb
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\obj\Debug\ImportExcelToDatabase.Properties.Resources.resources
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\obj\Debug\ImportExcelToDatabase.csproj.GenerateResource.Cache
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\obj\Debug\ImportExcelToDatabase.exe
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\obj\Debug\ImportExcelToDatabase.pdb
+C:\Users\jhobart.poblete\Desktop\Personal Files\CSharp\2019 Projects\ImportExcelToDatabase\ImportExcelToDatabase\obj\Debug\ImportExcelToDatabase.Import.resources
